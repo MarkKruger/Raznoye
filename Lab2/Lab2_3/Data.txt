@@ -1,0 +1,1 @@
+first_name=Serizlized,second_name=Glushko,sex=0,birth_year=1995,start_year=2016,rating=73.1
